@@ -1,5 +1,5 @@
 body {
-    background-color: #f4f6f9;
+    background-color: white;
     font-family: 'Arial', sans-serif;
 }
 
@@ -8,7 +8,7 @@ header {
 }
 
 h1 {
-    color: #FFD700;
+    color: blue;
 }
 
 .btn {
